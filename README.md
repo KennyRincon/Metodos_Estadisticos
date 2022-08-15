@@ -8,3 +8,7 @@ Semana 1:
 
 + 08/08/2022: Clase Inicial, presentación del curso
 + 10/08/2022: Clase sala de computacion 
+
+Semana 2:
+
++15/08/2022: Clase de Metodo Cientifico
