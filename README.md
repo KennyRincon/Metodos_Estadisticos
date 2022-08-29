@@ -12,18 +12,18 @@ Semana 1:
 
 Semana 2:
 
-+15/08/2022: Clase de Metodo Cientifico
++ 15/08/2022: Clase de Metodo Cientifico
 
-+17/08/2022:
++ 17/08/2022:
 
 Semana 3:
 
-+22/08/2022: Elaboracion de la encuesta
++ 22/08/2022: Elaboracion de la encuesta
 
-+24/08/2022: Entrevista a compañeros de 1
++ 24/08/2022: Entrevista a compañeros de 1
 
 Semana 4: 
 
-+29/08/2022: Captura y codificacion de datos de encuesta
++ 29/08/2022: Captura y codificacion de datos de encuesta
 
-+31/08/2022:
++ 31/08/2022:
