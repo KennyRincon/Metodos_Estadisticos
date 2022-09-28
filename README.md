@@ -24,6 +24,24 @@ Semana 3:
 
 Semana 4: 
 
-+ 29/08/2022: Captura y codificacion de datos de encuesta
++ 29/08/2022: Captura de datos 
 
-+ 31/08/2022:
++ 31/08/2022: Codificacion de datos de encuesta
+
+Semana 5:
+
++ 05/09/2022: Sala de computo - resultado de encuesta
+
++ 7/09/2022: Resultado de encuesta
+
+Semana 6:
+
++ 12/09/2022: Trabajo autonomo 
+
++ 14/09/2022: Trabajo autonomo 
+
+Semana 7:
+
++ 19/09/2022: Sala e computo: Finalizacion con el trabajar con la base de la encuesta
+
++ 21/09/2022: Sala de computo: Presentacion de datos
