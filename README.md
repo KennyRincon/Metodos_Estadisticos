@@ -45,3 +45,13 @@ Semana 7:
 + 19/09/2022: Sala e computo: Finalizacion con el trabajar con la base de la encuesta
 
 + 21/09/2022: Sala de computo: Presentacion de datos
+
+Semana 8:
+
++26/09/2022: Salida a campo 
++27/09/2022: Actualizacion de README
+
+Semana 9:
+
++05/10/2022: Examen 
++06/10/2022: 
