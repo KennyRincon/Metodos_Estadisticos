@@ -48,10 +48,10 @@ Semana 7:
 
 Semana 8:
 
-+26/09/2022: Salida a campo 
-+27/09/2022: Actualizacion de README
++ 26/09/2022: Salida a campo 
++ 27/09/2022: Actualizacion de README
 
 Semana 9:
 
-+05/10/2022: Examen 
-+06/10/2022: 
++ 05/10/2022: Examen 
++ 06/10/2022: 
