@@ -51,7 +51,7 @@ shapiro.test(S5$Nematodos)
 
 par.aov <- aov(Nematodos$Nematodos ~ Nematodos$Tipos.de.suelo)
 summary(par.aov)
-
+                                                   
 #TEST ANOVA
 #Grados de libertad: 4
 #Grados de libertad residuales: 20
