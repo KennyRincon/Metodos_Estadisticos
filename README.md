@@ -1,6 +1,6 @@
 # Metodos_Estadisticos
 Curso de Metodos estadisticos Semestre Agosto Diciembre 2022
-
+# Kenny Rincon
 
 ## Contenido
 
@@ -75,7 +75,7 @@ Semana 11:
 
 + 26/10/2022: Clase en sala de computación
 
-Semana 13
+Semana 13:
 
 + 31/10/2022:
 + 02/11/2022:
@@ -85,7 +85,7 @@ Semana 14:
 + 07/11/2022:
 + 09/11/2022:
 
-Semana 15
+Semana 15:
 
 + 14/11/2022:
 + 16/11/2022:
