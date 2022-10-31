@@ -53,5 +53,10 @@ Semana 8:
 
 Semana 9:
 
-+ 05/10/2022: Examen 
-+ 06/10/2022: 
+📍 03/10/2022: REPASO
+📅 05/10/2022: Clase en sala de computación - ANOVA
+
+🌳 Semana 10
+
+📍 10/10/2022: Clase en sala de computación -
+📍 12/10/2022: EXAMEN
