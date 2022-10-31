@@ -49,14 +49,43 @@ Semana 7:
 Semana 8:
 
 + 26/09/2022: Salida a campo 
+
 + 27/09/2022: Actualizacion de README
 
 Semana 9:
 
-📍 03/10/2022: REPASO
-📅 05/10/2022: Clase en sala de computación - ANOVA
++ 03/10/2022: REPASO
 
-🌳 Semana 10
++ 05/10/2022: Clase en sala de computación - ANOVA
 
-📍 10/10/2022: Clase en sala de computación -
-📍 12/10/2022: EXAMEN
+Semana 10:
+
++ 10/10/2022: Clase en sala de computación 
+
++ 12/10/2022: EXAMEN
+
+Semana 11:
++ 17/10/2022: Clase en sala de computación - trabajo autónomo
+
++ 19/10/2022: Clase en sala de computación - revisón de examen
+
+ Semana 12:
+
++ 24/10/2022: Clase en sala de computación - trabajo autónomo
+
++ 26/10/2022: Clase en sala de computación
+
+Semana 13
+
++ 31/10/2022:
++ 02/11/2022:
+
+Semana 14:
+
++ 07/11/2022:
++ 09/11/2022:
+
+Semana 15
+
++ 14/11/2022:
++ 16/11/2022:
