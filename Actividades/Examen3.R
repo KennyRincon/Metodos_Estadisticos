@@ -1,7 +1,7 @@
 #Kenny Margarita Rincon Lopez
 #EXAMEN 30/11/2022
 
-Nemadatos <- read.csv("~/RepositorioKen/Metodos_Estadisticos/Datos/Nemadatos2.csv")
+Nemadatos <- read.csv("Metodos_Estadisticos/Datos/Nemadatos2.csv")
 
 library(readr)
 
@@ -16,12 +16,6 @@ boxplot(Nemadatos$Nemadatos ~ Nemadatos$Suelo,
         ylab = "Numero de Nemadatos",
          col = "pink")
 
-#¿Observamos diferencias en los valores promedios y de variabilidad por grupos?
-# =
-  
-#Aplique la "FUNCION TAPPLY" y encuentre las varianzas de los cinco tratamientos
-#¿Cuántas veces es la diferencia entre la varainza más pequeña y la más grande?
-# =
 
 tapply(Nemadatos$Nemadatos, Nemadatos$Suelo, mean)
 tapply(Nemadatos$Nemadatos, Nemadatos$Suelo, var) 
@@ -38,7 +32,7 @@ plot(TukeyHSD(par.aov))
 
 #EJERCICIO 2
 
-Crecimiento <- read.csv("~/RepositorioKen/Metodos_Estadisticos/Datos/Crecimiento.csv")
+Crecimiento <- read.csv("Metodos_Estadisticos/Datos/Crecimiento.csv")
 library(readr)
 View(Crecimiento)
 
